@@ -1,0 +1,21 @@
+{
+    "name": "Simo/boardingcards",
+    "description": "Trip sorter",
+    "authors": [
+        {
+            "name": "Mohamed ES-SAHLI",
+            "email": "simoessahli@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/"
+        }
+    }
+}
