@@ -18,9 +18,6 @@ Only Json format is supported for this example.
 php index.php
 ```
 
-## Documentation
-You can find the documentation generated using PHPDOC in "docs" folder.
-
 ## Tests
 To run tests make sure you are in the main folder, and then you can run this command line :
 
